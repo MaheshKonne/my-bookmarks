@@ -1,6 +1,11 @@
 # my-bookmarks
 Some useful resources/refs I have gone through
 
+
+### Functional Programming in JS
+
+  * [React Training](https://reacttraining.com/blog/)
+
 ### Functional Programming in JS
 
   * [React Internals](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
