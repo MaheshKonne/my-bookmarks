@@ -32,6 +32,8 @@ Some useful resources/refs I have gone through
 
   * [JS Event loop](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
 
+  * [JS - Perfection Kills](http://perfectionkills.com/)
+
 ### Front-end development
 
   * [10 things every front end developer should know](https://medium.com/@namkam5/10-things-every-front-end-developer-should-know-a6cf6877866f)
