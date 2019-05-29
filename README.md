@@ -9,6 +9,10 @@ Some useful resources/refs I have gone through
 
   * [React Internals](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
+### Redux
+
+  * [redux in 27 lines](https://dev.to/selbekk/redux-in-27-lines-2i92)
+
 ### Functional Programming in JS
 
   * [Mori](http://swannodette.github.io/mori/)
@@ -26,3 +30,8 @@ Some useful resources/refs I have gone through
 
   * [JS Invterview Questions](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
+  * [JS Event loop](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+
+### Front-end development
+
+  * [10 things every front end developer should know](https://medium.com/@namkam5/10-things-every-front-end-developer-should-know-a6cf6877866f)
