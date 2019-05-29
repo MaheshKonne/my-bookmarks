@@ -1,12 +1,11 @@
 # my-bookmarks
 Some useful resources/refs I have gone through
 
+<<<<<<< Updated upstream
 
-### Functional Programming in JS
+### React
 
   * [React Training](https://reacttraining.com/blog/)
-
-### Functional Programming in JS
 
   * [React Internals](https://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
@@ -21,3 +20,9 @@ Some useful resources/refs I have gone through
   * [Underscroe Js](https://underscorejs.org)
   
   * [Lodash](https://lodash.com)
+
+
+### Javascript
+
+  * [JS Invterview Questions](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
